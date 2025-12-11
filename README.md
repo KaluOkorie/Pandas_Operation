@@ -46,7 +46,14 @@ Source: [Here](https://www.kaggle.com/datasets/spscientist/students-performance-
   <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography2.png" alt="Demography" width="800"/>
 </p>
 
-
+## Intervention Insights
+- Test preparation boosts scores by +7.6 points.
+- 39.7% of students are at risk (scoring below 60).
+- Typical at-risk profile: 74.6% had no test prep, 50.4% on free/reduced lunch.
+## Recommended Actions:
+- Expand test-prep programs.
+- Prioritise support for at-risk students.
+- Address socioeconomic gaps linked to an 8.6-point performance disparity.
 
 
 
