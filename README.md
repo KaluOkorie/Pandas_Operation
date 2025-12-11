@@ -33,7 +33,7 @@ Source: [Here](https://www.kaggle.com/datasets/spscientist/students-performance-
 ## Demographic Insights
   <p>
     Gender Gap: Females outperform males by 3.7 points on average
-  <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography1.png" alt="Demography" width="200"/>
+  <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography1.png" alt="Demography" width="400"/>
 </p>
 
   <p>
