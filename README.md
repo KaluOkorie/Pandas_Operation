@@ -31,9 +31,21 @@ Source: [Here](https://www.kaggle.com/datasets/spscientist/students-performance-
 - Key insight
 
 ## Demographic Insights
-- Gender Gap: Females outperform males by 3.7 points on average
+  <p>
+  - Gender Gap: Females outperform males by 3.7 points on average
+  <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography1.png" alt="Demography" width="200"/>
+</p>
+
+  <p>
 - Parental Education Impact: Students with master's/bachelor's degrees parents score 13+ points higher
+  <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography3.png" alt="Demography" width="200"/>
+</p>
+
+  <p>
 - Socioeconomic Factor: 8.6-point achievement gap between lunch program types
+  <img src="https://github.com/KaluOkorie/Pandas_Operation/blob/main/Demography2.png" alt="Demography" width="200"/>
+</p>
+
 
 
 
