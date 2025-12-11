@@ -282,7 +282,7 @@ df.head(5)
 """## KEY INSIGHTS"""
 
 def generate_comprehensive_insights(df):
-    print(" COMPREHENSIVE BUSINESS INSIGHTS")
+    print(" COMPREHENSIVE INSIGHTS")
 
     # Create summary metrics
     df["total_score"] = df["math_score"] + df["reading_score"] + df["writing_score"]
@@ -359,4 +359,20 @@ def generate_comprehensive_insights(df):
 
 
 generate_comprehensive_insights(df)
+
+Summary = '''--- Summary ---
+
+This analysis reveals that behind every statistic are real students facing real challenges.
+The data shows us that nearly 40% need additional support, but more importantly,
+it provides clear paths to help them—from targeted test preparation to addressing basic needs through lunch programs.\n
+
+What stands out is how manageable solutions can create meaningful change.
+A 7.6-point improvement from test prep isn't just a number; it's the difference between struggling and succeeding for hundreds of students.
+The achievement gaps we've identified aren't inevitable—they're addressable through thoughtful, data-informed interventions.\n
+
+Ultimately, this project demonstrates that when we listen to what the data tells us about student experiences,
+we can build more supportive and equitable learning environments.
+The true value lies in using these insights to make practical decisions that help real students thrive.'''
+
+print(Summary)
 
